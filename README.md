@@ -25,9 +25,7 @@ My journey in Googles Cyber Security Course has led me to develop a passion for 
 
 ### SIEM
 <div>
-
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
- 
+<img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" /> 
 </div>
 
 ## Certifications
