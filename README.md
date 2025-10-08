@@ -16,7 +16,7 @@ My journey in Googles Cyber Security Course has led me to develop a passion for 
 | SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Scope, goals, and risk assessment report        | <a href="https://github.com/GaryVelazquez/Projects/tree/main">Scope, goals, and risk assessment report </a>
-| Incident Response Planning and Execution      | SOC Automation Lab|
+| Cybersecurity incident report network traffic analysis  | <a href="https://github.com/GaryVelazquez/Projects/pull/1"> Cybersecurity incident report network traffic analysis  
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
