@@ -31,7 +31,7 @@ My journey in Googles Cyber Security Course has led me to develop a passion for 
 ## Certifications
 
 <div>
-</div>
+
 
 ## Projects
 - Detection Lab
