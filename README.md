@@ -31,8 +31,9 @@ My journey in Googles Cyber Security Course has led me to develop a passion for 
 ## Certifications
 
 <div>
-<img src="<img width="1604"[ height="802" alt="image" src="https://cdn2.hubspot.net/hubfs/53/image8-2.jpg" /> <a>https://coursera.org/share/14640bda9625597f2da629a81f0af79e</a>
-
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://coursera.org/share/0160720019e0dc30a3c42a858244dcf6"> Foundations of Cybersecurity     
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://coursera.org/share/4047f4975f6772d0b54067d02d4f5c87"> Play It Safe: Manage Security Risks     
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://coursera.org/share/d0a6e3548a05843e81b97f5ad9b7af52"> Connect and Protect: Networks and Network Security     
 
 
 ## Projects
