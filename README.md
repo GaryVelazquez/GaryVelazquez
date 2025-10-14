@@ -31,7 +31,8 @@ My journey in Googles Cyber Security Course has led me to develop a passion for 
 ## Certifications
 
 <div>
-<img src="https://coursera.org/share/14640bda9625597f2da629a81f0af79e" />
+<img src="<img width="1604" height="802" alt="image" src="https://github.com/user-attachments/assets/2c3886fd-0bd7-483a-af52-c64981aae1c1" /> <a>https://coursera.org/share/14640bda9625597f2da629a81f0af79e</a>
+
 
 
 ## Projects
