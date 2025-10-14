@@ -1,12 +1,13 @@
-# Hello, I'm Gary Velazquez
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+# Hello, I'm Gary Velazquez ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-Ive recently completed Googles Cyber Security Course and with a profound interest in technology and a dedication to solving complex problems.
+Ive recently completed some of Googles Cyber Security Course and with a profound interest in technology and a dedication to solving complex problems.
+id like to start my career as a cyber security analyst.
+
 
 ## Objective
 
-My journey in Googles Cyber Security Course has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Googles Cyber Security Course has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. I want to keep challenging myself and growing my knowledge in career field and eventually keep working my way up the ladder. 
 
 ## Skills
 
