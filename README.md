@@ -34,8 +34,7 @@ My journey in Googles Cyber Security Course has led me to develop a passion for 
 <div>
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://coursera.org/share/0160720019e0dc30a3c42a858244dcf6"> Foundations of Cybersecurity  <br>   
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://coursera.org/share/4047f4975f6772d0b54067d02d4f5c87"> Play It Safe: Manage Security Risks     <br>
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://coursera.org/share/d0a6e3548a05843e81b97f5ad9b7af52"> Connect and Protect: Networks and Network Security     <br>
-<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://coursera.org/share/4047f4975f6772d0b54067d02d4f5c87"> Play It Safe: Manage Security Risks     <br>
+<img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://coursera.org/share/d0a6e3548a05843e81b97f5ad9b7af52"> Connect and Protect: Networks and Network Security     <br> 
 <img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Google_%22G%22_logo.svg/1024px-Google_%22G%22_logo.svg.png" width="2%" height="2%" /> <a href= "https://www.coursera.org/account/accomplishments/records/46QH021JK2K1"> Tools of the Trade: Linux and SQL <br>
 
 ## Projects
