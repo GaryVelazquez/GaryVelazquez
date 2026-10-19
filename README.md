@@ -1,4 +1,4 @@
-# Hello, I'm Gary Velazquez ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.linkedin.com/in/gary-velazquez"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>[![Credly Badge](https://img.shields.io/badge/Credly-Certified-EF5B25?logo=credly&logoColor=white)](https://www.credly.com/users/gary-velazquez)
+# Hello, I'm Gary Velazquez ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎  ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ ‎ <a href="https://www.linkedin.com/in/gary-velazquez"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> [![Credly Badge](https://img.shields.io/badge/Credly-Certified-EF5B25?logo=credly&logoColor=white)](https://www.credly.com/users/gary-velazquez)
  
 
 Ive recently completed some of Googles Cyber Security Course and with a profound interest in technology and a dedication to solving complex problems.
